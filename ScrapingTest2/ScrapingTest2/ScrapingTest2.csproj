@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.8.4" />
+    <PackageReference Include="System.Linq" Version="4.3.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.11" />
+    <PackageReference Include="EO.WebBrowser" Version="18.1.91" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\EmptyClass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Startup.cs" />
+    <Compile Remove="TurnKey_VR.cs" />
+    <Compile Remove="TurnKey_VR.cs" />
+    <Compile Remove="BeachTravel.cs" />
+    <Compile Remove="BeachTravel.cs" />
+    <Compile Remove="BeachTravelCondos.cs" />
+    <Compile Remove="WebScraper.cs" />
+  </ItemGroup>
+</Project>

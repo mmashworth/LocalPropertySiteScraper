@@ -1,0 +1,11 @@
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/bin/Debug/netcoreapp2.0/ScrapingTest2.deps.json
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/bin/Debug/netcoreapp2.0/ScrapingTest2.runtimeconfig.json
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/bin/Debug/netcoreapp2.0/ScrapingTest2.runtimeconfig.dev.json
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/bin/Debug/netcoreapp2.0/ScrapingTest2.dll
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/bin/Debug/netcoreapp2.0/ScrapingTest2.pdb
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/obj/Debug/netcoreapp2.0/ScrapingTest2.csprojResolveAssemblyReference.cache
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/obj/Debug/netcoreapp2.0/ScrapingTest2.csproj.CoreCompileInputs.cache
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/obj/Debug/netcoreapp2.0/ScrapingTest2.AssemblyInfoInputs.cache
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/obj/Debug/netcoreapp2.0/ScrapingTest2.AssemblyInfo.cs
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/obj/Debug/netcoreapp2.0/ScrapingTest2.dll
+/Users/markashworth/Projects/ScrapingTest2/ScrapingTest2/obj/Debug/netcoreapp2.0/ScrapingTest2.pdb
